@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "nomadcoders react-native lecture",
+    "githubUrl": "https://github.com/dkfagh/nice-weather"
   }
 }
